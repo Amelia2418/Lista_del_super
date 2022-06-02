@@ -4,17 +4,23 @@ body {
 
 
 h1 {
+    
+    
+    
     color: black;
 }
 
 
 /* class */
 .categoria{
+
+
     color: darkgreen;
 }
 
 
 /* class */
 .elemento{
+
     color:midnightblue;
 }
