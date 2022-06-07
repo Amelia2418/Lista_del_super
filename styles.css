@@ -3,7 +3,7 @@ body {
 }
 
 
-h1 {
+.main_section {
     text-align: center;
     font-size: 50px;
     font-style: italic;
@@ -11,8 +11,7 @@ h1 {
 }
 
 
-/* class */
-.categoria{
+.main_article--item {
     font-size: 25px;
     font-weight: bold;
     color: darkgreen;
@@ -20,26 +19,25 @@ h1 {
 }
 
 
-/* class */
-.elemento{
+.main_article--list_item {
     font-size: 20px;
     color:midnightblue;
 }
 
 
-figcaption {
+.main_article--list_figure figcaption {
     font-size: 17px;
     font-style: italic;
 }
 
 
-p {
+.main_footer {
     font-size: 25px;
     text-align: center;
 }
 
 
-img {
+.main_article--list_figure img {
     width: 400px;
     height: 250px;
 }
